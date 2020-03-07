@@ -1,0 +1,5 @@
+flask
+flask_socketio
+black
+flask-wtf
+mysql_connector
